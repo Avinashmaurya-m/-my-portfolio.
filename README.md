@@ -25,7 +25,8 @@ This is my first personal portfolio website made using HTML. It introduces who I
             I’m a passionate and self-driven coder with a strong foundation in programming and web development. I enjoy building real-world projects that solve problems and help me grow my skills. Currently focused on mastering languages like C and technologies like HTML, CSS, and JavaScript, I aim to become a full-stack developer and make a meaningful impact in the tech world.
         </p>
 
-        <img src="avi_photo.jpg" alt="My Photo" width="200">
+        <img src="https://via.placeholder.com/200x200.png?text=My+Photo" alt="My Photo">
+
     </section>
 
     <section id="skill">
